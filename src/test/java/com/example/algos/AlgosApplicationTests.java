@@ -62,6 +62,7 @@ class AlgosApplicationTests {
 		System.out.println("Mya:"+mydata+"arrayList:"+mynew+"max:"+Collections.max(mynew));
 		System.out.println("Mynewdata:"+mydata+"arrayList:"+mynew+"max:"+Collections.max(mynew));
 		System.out.println("My:"+mydata+"arrayList:"+mynew+"max:"+Collections.max(mynew));
+		System.out.println("Mynews:"+mydata+"arrayList:"+mynew+"max:"+Collections.max(mynew));
 	}
 
 	private String returnBinary(int num) {
